@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "mongodb": "^4.13.0",
+    "mysql": "^2.18.1",
+    "upper-case": "^2.0.2"
+  },
+  "name": "nodejs_demo",
+  "version": "1.0.0",
+  "main": "modules.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
